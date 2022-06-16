@@ -1,3 +1,2 @@
-hola esta es mi historia, soy ingeniero de sistemas.
-Con especializacion en desarrollo Web.
-Hoy hablaremos de su vida y obra maestra.
+hola esta es mi historia, soy desarrollador Web.
+Otro dia veremos lo de su vida laboral
